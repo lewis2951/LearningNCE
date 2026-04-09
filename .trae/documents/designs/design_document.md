@@ -15,6 +15,8 @@
 
 ![首页设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20home%20page%20for%20English%20learning%20app%2C%20clean%20design%2C%20blue%20theme%2C%20welcome%20message%2C%20start%20learning%20button%2C%20course%20button%2C%20bottom%20navigation%20bar&image_size=portrait_16_9)
 
+**图片描述**：首页采用蓝色主题，顶部显示应用标题「新概念英语学习」，中间是欢迎信息「欢迎使用新概念英语学习打卡应用！」，下方有「开始学习」和「查看课程」两个操作按钮，底部是包含「首页」、「打卡」、「课程」、「统计」、「我的」五个选项的导航栏。
+
 - **布局**：垂直居中布局
 - **元素**：
   - 应用标题：「新概念英语学习」
@@ -25,6 +27,8 @@
 ### 2. 打卡页面
 
 ![打卡页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20checkin%20page%2C%20daily%20checkin%20button%2C%20calendar%20view%2C%20date%20display%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
+
+**图片描述**：打卡页面顶部显示「每日打卡」标题，下方是今日日期显示，中间有醒目的「立即打卡」按钮（已打卡后显示为「已打卡」状态）。页面下半部分是「打卡记录」标题，包含月份导航（上个月、当前月份、下个月）和日历视图，已打卡的日期会标记为绿色。
 
 - **布局**：垂直布局
 - **元素**：
@@ -39,6 +43,8 @@
 
 ![课程页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20course%20page%2C%20book%20selection%20buttons%2C%20progress%20bar%2C%20lesson%20list%2C%20completed%20lessons%20marked%20green%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
 
+**图片描述**：课程页面顶部显示「课程管理」标题，下方是册数选择按钮（「第1册」、「第2册」、「第3册」、「第4册」），中间是进度条显示当前册的学习完成情况，下方是课程列表，显示每课的标题和完成状态，未完成的课程右侧有「标记完成」按钮，已完成的课程会标记为绿色。
+
 - **布局**：垂直布局
 - **元素**：
   - 页面标题：「课程管理」
@@ -50,6 +56,8 @@
 ### 4. 统计页面
 
 ![统计页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20statistics%20page%2C%20data%20cards%2C%20learning%20trend%20chart%2C%20weekly%20data%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
+
+**图片描述**：统计页面顶部显示「学习统计」标题，下方是四个统计卡片，分别显示总打卡天数、连续打卡天数、总学习时长和完成课程数。页面下半部分是「学习趋势」标题和最近7天学习时长的柱状图，直观展示用户的学习情况。
 
 - **布局**：垂直布局
 - **元素**：
@@ -66,6 +74,8 @@
 
 ![个人中心页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20profile%20page%2C%20user%20info%2C%20settings%20list%2C%20logout%20button%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
 
+**图片描述**：个人中心页面顶部显示「个人中心」标题，下方是用户信息区域，包含头像、用户名和「编辑资料」按钮。中间是设置选项列表，包括「学习提醒时间设置」、「学习笔记入口」、「生词本入口」和「关于应用」。页面底部是「退出登录」按钮（仅在登录状态显示）。
+
 - **布局**：垂直布局
 - **元素**：
   - 页面标题：「个人中心」
@@ -81,6 +91,8 @@
 
 ![登录页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20login%20page%2C%20username%20input%2C%20password%20input%2C%20login%20button%2C%20register%20link%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
 
+**图片描述**：登录页面采用垂直居中布局，顶部显示「登录」标题，下方依次是用户名输入框（提示文字「请输入用户名」）、密码输入框（提示文字「请输入密码」）和「登录」按钮。页面底部是「还没有账号？立即注册」链接，方便新用户注册。
+
 - **布局**：垂直居中布局
 - **元素**：
   - 页面标题：「登录」
@@ -92,6 +104,8 @@
 ### 7. 注册页面
 
 ![注册页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20register%20page%2C%20username%20input%2C%20password%20input%2C%20confirm%20password%20input%2C%20register%20button%2C%20login%20link%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
+
+**图片描述**：注册页面采用垂直居中布局，顶部显示「注册」标题，下方依次是用户名输入框（提示文字「请输入用户名」）、密码输入框（提示文字「请输入密码」）、确认密码输入框（提示文字「请再次输入密码」）和「注册」按钮。页面底部是「已有账号？立即登录」链接，方便已有用户登录。
 
 - **布局**：垂直居中布局
 - **元素**：
@@ -106,6 +120,8 @@
 
 ![学习笔记页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20notes%20page%2C%20add%20note%20button%2C%20note%20list%2C%20edit%20and%20delete%20buttons%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
 
+**图片描述**：学习笔记页面顶部显示「学习笔记」标题，下方是「添加笔记」按钮。页面中间是笔记列表，每条笔记显示标题、内容预览和更新时间，右侧有「编辑」和「删除」按钮。点击「添加笔记」或「编辑」按钮会弹出对话框，包含标题输入、内容输入、取消和保存按钮。
+
 - **布局**：垂直布局
 - **元素**：
   - 页面标题：「学习笔记」
@@ -117,6 +133,8 @@
 ### 9. 生词本页面
 
 ![生词本页面设计](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mobile%20app%20vocabulary%20page%2C%20add%20word%20button%2C%20vocabulary%20list%2C%20mastery%20slider%2C%20edit%20and%20delete%20buttons%2C%20blue%20theme%2C%20mobile%20interface&image_size=portrait_16_9)
+
+**图片描述**：生词本页面顶部显示「生词本」标题，下方是「添加生词」按钮。页面中间是生词列表，每条生词显示单词、释义、例句（可选），右侧有「编辑」和「删除」按钮。每条生词下方有掌握程度滑块控件（0-100%），用户可以通过拖动滑块来标记单词的掌握程度。点击「添加生词」或「编辑」按钮会弹出对话框，包含单词输入、释义输入、例句输入（可选）、取消和保存按钮。
 
 - **布局**：垂直布局
 - **元素**：
